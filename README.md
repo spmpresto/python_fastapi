@@ -1,2 +1,2 @@
 # python_fastapi
-Python FastAPI
+Python FastAPI: example of the project
